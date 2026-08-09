@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Distracted Boyfriend",
+    "imagePath": "/templates/distracted_boyfriend.png",
+    "width": 1200,
+    "height": 800,
+    "textBoxCount": 3
+  },
+  {
+    "id": 2,
+    "name": "Drake Hotline Bling",
+    "imagePath": "/templates/drake_hotline_bling.png",
+    "width": 1200,
+    "height": 1200,
+    "textBoxCount": 2
+  },
+  {
+    "id": 3,
+    "name": "Two Buttons",
+    "imagePath": "/templates/two_buttons.png",
+    "width": 600,
+    "height": 908,
+    "textBoxCount": 3
+  },
+  {
+    "id": 4,
+    "name": "Doge",
+    "imagePath": "/templates/doge.png",
+    "width": 620,
+    "height": 620,
+    "textBoxCount": 2
+  },
+  {
+    "id": 5,
+    "name": "Clown Applying Makeup",
+    "imagePath": "/templates/clown_applying_makeup.png",
+    "width": 750,
+    "height": 798,
+    "textBoxCount": 4
+  },
+  {
+    "id": 6,
+    "name": "Brain Expansion",
+    "imagePath": "/templates/brain_expansion.png",
+    "width": 857,
+    "height": 1202,
+    "textBoxCount": 4
+  },
+  {
+    "id": 7,
+    "name": "Change My Mind",
+    "imagePath": "/templates/change_my_mind.png",
+    "width": 482,
+    "height": 361,
+    "textBoxCount": 2
+  },
+  {
+    "id": 8,
+    "name": "Batman Slapping Robin",
+    "imagePath": "/templates/batman_slapping_robin.png",
+    "width": 400,
+    "height": 387,
+    "textBoxCount": 2
+  },
+  {
+    "id": 9,
+    "name": "Is This a Pigeon",
+    "imagePath": "/templates/is_this_a_pigeon.png",
+    "width": 1587,
+    "height": 1425,
+    "textBoxCount": 3
+  },
+  {
+    "id": 10,
+    "name": "Monkey Puppet",
+    "imagePath": "/templates/monkey_puppet.png",
+    "width": 923,
+    "height": 768,
+    "textBoxCount": 2
+  },
+  {
+    "id": 11,
+    "name": "Disaster Girl",
+    "imagePath": "/templates/disaster_girl.png",
+    "width": 500,
+    "height": 375,
+    "textBoxCount": 2
+  },
+  {
+    "id": 12,
+    "name": "Left Exit 12 Off Ramp",
+    "imagePath": "/templates/left_exit_12_off_ramp.png",
+    "width": 804,
+    "height": 767,
+    "textBoxCount": 3
+  },
+  {
+    "id": 13,
+    "name": "Mocking Spongebob",
+    "imagePath": "/templates/mocking_spongebob.png",
+    "width": 502,
+    "height": 353,
+    "textBoxCount": 2
+  },
+  {
+    "id": 14,
+    "name": "Spider Man Double Point",
+    "imagePath": "/templates/spiderman_double_point.png",
+    "width": 600,
+    "height": 600,
+    "textBoxCount": 2
+  },
+  {
+    "id": 15,
+    "name": "Roll Safe Think About It",
+    "imagePath": "/templates/roll_safe.png",
+    "width": 702,
+    "height": 395,
+    "textBoxCount": 2
+  },
+  {
+    "id": 16,
+    "name": "Once Again Asking For Support",
+    "imagePath": "/templates/once_again_asking.png",
+    "width": 600,
+    "height": 600,
+    "textBoxCount": 2
+  },
+  {
+    "id": 17,
+    "name": "Woman Yelling At Cat",
+    "imagePath": "/templates/woman_yelling_at_cat.png",
+    "width": 680,
+    "height": 438,
+    "textBoxCount": 2
+  },
+  {
+    "id": 18,
+    "name": "Finding Neverland",
+    "imagePath": "/templates/finding_neverland.png",
+    "width": 423,
+    "height": 600,
+    "textBoxCount": 2
+  },
+  {
+    "id": 19,
+    "name": "Evil Kermit",
+    "imagePath": "/templates/evil_kermit.png",
+    "width": 700,
+    "height": 325,
+    "textBoxCount": 2
+  },
+  {
+    "id": 20,
+    "name": "Success Kid",
+    "imagePath": "/templates/success_kid.png",
+    "width": 500,
+    "height": 500,
+    "textBoxCount": 2
+  },
+  {
+    "id": 21,
+    "name": "Boardroom Meeting Suggestion",
+    "imagePath": "/templates/boardroom_meeting.png",
+    "width": 500,
+    "height": 649,
+    "textBoxCount": 3
+  },
+  {
+    "id": 22,
+    "name": "One Does Not Simply",
+    "imagePath": "/templates/one_does_not_simply.png",
+    "width": 568,
+    "height": 335,
+    "textBoxCount": 2
+  },
+  {
+    "id": 23,
+    "name": "The Rock Driving",
+    "imagePath": "/templates/the_rock_driving.png",
+    "width": 568,
+    "height": 700,
+    "textBoxCount": 2
+  },
+  {
+    "id": 24,
+    "name": "Sleeping Shaq",
+    "imagePath": "/templates/sleeping_shaq.png",
+    "width": 640,
+    "height": 631,
+    "textBoxCount": 2
+  },
+  {
+    "id": 25,
+    "name": "Hard To Swallow Pills",
+    "imagePath": "/templates/hard_to_swallow_pills.png",
+    "width": 680,
+    "height": 979,
+    "textBoxCount": 2
+  },
+  {
+    "id": 26,
+    "name": "American Chopper Argument",
+    "imagePath": "/templates/american_chopper.png",
+    "width": 640,
+    "height": 1800,
+    "textBoxCount": 5
+  },
+  {
+    "id": 27,
+    "name": "Hide the Pain Harold",
+    "imagePath": "/templates/hide_the_pain_harold.png",
+    "width": 480,
+    "height": 601,
+    "textBoxCount": 2
+  },
+  {
+    "id": 28,
+    "name": "Tuxedo Winnie The Pooh",
+    "imagePath": "/templates/tuxedo_pooh.png",
+    "width": 600,
+    "height": 600,
+    "textBoxCount": 2
+  },
+  {
+    "id": 29,
+    "name": "Grus Plan",
+    "imagePath": "/templates/grus_plan.png",
+    "width": 700,
+    "height": 449,
+    "textBoxCount": 4
+  },
+  {
+    "id": 30,
+    "name": "Buff Doge vs Cheems",
+    "imagePath": "/templates/buff_doge_vs_cheems.png",
+    "width": 600,
+    "height": 600,
+    "textBoxCount": 4
+  }
+]

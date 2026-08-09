@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - SECRET_KEY=DOCKER_MOCK_SECRET_KEY_FOR_LOCAL_COMPOSE_RUNS
+      - DATABASE_URL=sqlite:////app/meme_gen.db
+    volumes:
+      - backend-data:/app
+    restart: always
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: always
+
+volumes:
+  backend-data:
